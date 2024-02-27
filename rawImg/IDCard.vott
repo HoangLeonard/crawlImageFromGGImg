@@ -1,0 +1,1029 @@
+{
+    "name": "IDCard",
+    "securityToken": "IDCard Token",
+    "sourceConnection": {
+        "name": "IDCard",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNTVkNmYxYTU1M2M1YzBjZjIxNjYzMGRlOTI3ZTZmMDA5N2E5NTQ5ZGFiOWQzYjEwMTYxMDFlNjU3MDBjMjg5MmJjZjUxZGM3M2IwYTg4OGI2YTM2OGRjNTZiMmY4NDJmN2FkNDRiNzE2ZGZkMWQxYTc4N2IxZDIxNjFkMjVkNjkzZmQzZWQyM2JlMGIyZTE1NGU0MTBhMjQ1MTg1N2MxYSIsIml2IjoiZDRkNWQ1ZjJiMTgxN2MxZmIwOTQ0MTU5M2MzY2RkZTczZWUyYzRmNmI1MTQzOWZiIn0="
+        },
+        "id": "iQmgT-SHO"
+    },
+    "targetConnection": {
+        "name": "IDCard",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMjQxZDJkNjIyNDYxODliOTk2NTgxN2FhOWM0ZTQzMjAyNGYzYmMwNWM1ZTcxYzAwMTNlODdhYmUxOThiMDBhMTkwYjQxMWFmODJhMjk3N2Q2ZWYwN2RkNzExNjE3YWQ2NGU0MmE3Mjc2ZjlhNWEwMDEyNDU3NzNlYTI4MTE1YjEzZGI1ZDY3MDI0YWNlMTA2MTIwNWU2MmM1NDFjMTRmYSIsIml2IjoiOWExNjI1YjRhY2MwYTA2ZjU1YmM0ZTg3NmRmOTE4YTRhZDIyOTMxNWQxMTY0MTA0In0="
+        },
+        "id": "iQmgT-SHO"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "top_left",
+            "color": "#5db300"
+        },
+        {
+            "name": "top_right",
+            "color": "#e81123"
+        },
+        {
+            "name": "bottom_right",
+            "color": "#6917aa"
+        },
+        {
+            "name": "bottom_left",
+            "color": "#015cda"
+        }
+    ],
+    "id": "fTaUrE9vW",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZWZiMzRkY2FiNDQyMmViY2UzOTIyNTBjMTBjMzg2ODBhZDUyMzc1NmFmOGE3NTY3ZjhlYmUwMmQyZjI4NTE2MTAxNTEzNmI2YmI4ZmI2OGI1M2ZkMDIyNzZmMjIwZmE4IiwiaXYiOiJjMzJmZTUyNjMyNDNjNmY1ZDRjZGIzMzU3MGVmN2FhM2QwYzQxNmRlYjlhNWYzZWUifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "60005a3447bb9a55829f4d374e02f9e5",
+    "assets": {
+        "51a62bf8bfda7e8f26aab9d552abe1a5": {
+            "format": "jpg",
+            "id": "51a62bf8bfda7e8f26aab9d552abe1a5",
+            "name": "0051b04d-e1b9-45d8-9e01-71e844ae84e7.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/0051b04d-e1b9-45d8-9e01-71e844ae84e7.jpg",
+            "size": {
+                "width": 800,
+                "height": 488
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d0948923e7dba4b5073ce6ee7ae3ccbc": {
+            "format": "jpg",
+            "id": "d0948923e7dba4b5073ce6ee7ae3ccbc",
+            "name": "018ccebd-0505-4880-a19f-d425a0c91478.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/018ccebd-0505-4880-a19f-d425a0c91478.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a771c79c1826e55bb41ae909aa30827e": {
+            "format": "jpg",
+            "id": "a771c79c1826e55bb41ae909aa30827e",
+            "name": "08a3ee28-e235-400f-999d-39aa258e48e3.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/08a3ee28-e235-400f-999d-39aa258e48e3.jpg",
+            "size": {
+                "width": 700,
+                "height": 438
+            },
+            "state": 2,
+            "type": 1
+        },
+        "095e873c012598ee1aa540d50c2352f2": {
+            "format": "jpg",
+            "id": "095e873c012598ee1aa540d50c2352f2",
+            "name": "0b24c68b-4a78-4c2f-b6ff-d27c1720b6cd.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/0b24c68b-4a78-4c2f-b6ff-d27c1720b6cd.jpg",
+            "size": {
+                "width": 2000,
+                "height": 1345
+            },
+            "state": 2,
+            "type": 1
+        },
+        "346cb537e66ee4b771e3e2970b23dd63": {
+            "format": "jpg",
+            "id": "346cb537e66ee4b771e3e2970b23dd63",
+            "name": "1602611a-70bc-403a-88ef-25ab7fd662ce.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/1602611a-70bc-403a-88ef-25ab7fd662ce.jpg",
+            "size": {
+                "width": 990,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3cadde6e6b142be85fc6d92656142bd5": {
+            "format": "jpg",
+            "id": "3cadde6e6b142be85fc6d92656142bd5",
+            "name": "1e1e1b26-b372-42aa-a2d7-a559206220dd.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/1e1e1b26-b372-42aa-a2d7-a559206220dd.jpg",
+            "size": {
+                "width": 2000,
+                "height": 1345
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2da246b49da27b0bb6dcc744414acb6": {
+            "format": "jpg",
+            "id": "c2da246b49da27b0bb6dcc744414acb6",
+            "name": "1ea6455a-4b49-4889-90c6-883aab7c7197.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/1ea6455a-4b49-4889-90c6-883aab7c7197.jpg",
+            "size": {
+                "width": 570,
+                "height": 350
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24ed4aef5c72c0558ce63aeb07a1cd6a": {
+            "format": "jpg",
+            "id": "24ed4aef5c72c0558ce63aeb07a1cd6a",
+            "name": "20a03ad9-e46a-4435-afb9-ef7c12adc110.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/20a03ad9-e46a-4435-afb9-ef7c12adc110.jpg",
+            "size": {
+                "width": 1200,
+                "height": 802
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa7871f80e9fa9b8c2a68b450925f05d": {
+            "format": "jpg",
+            "id": "aa7871f80e9fa9b8c2a68b450925f05d",
+            "name": "219fde9b-d2a7-47bf-8bc9-3587f4a16e05.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/219fde9b-d2a7-47bf-8bc9-3587f4a16e05.jpg",
+            "size": {
+                "width": 1960,
+                "height": 1309
+            },
+            "state": 2,
+            "type": 1
+        },
+        "80a51434b81771dde041af9d5134bef6": {
+            "format": "jpg",
+            "id": "80a51434b81771dde041af9d5134bef6",
+            "name": "2974f60e-9b06-41cc-bd5e-8d7120668f90.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/2974f60e-9b06-41cc-bd5e-8d7120668f90.jpg",
+            "size": {
+                "width": 660,
+                "height": 625
+            },
+            "state": 2,
+            "type": 1
+        },
+        "18f30a9cd7d21403a5c9df48307096fa": {
+            "format": "jpg",
+            "id": "18f30a9cd7d21403a5c9df48307096fa",
+            "name": "29fe3b17-80ba-4f3d-934a-e11a1bd8ee49.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/29fe3b17-80ba-4f3d-934a-e11a1bd8ee49.jpg",
+            "size": {
+                "width": 480,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fb2b73ff8b5c38d72745cffde7288b9f": {
+            "format": "jpg",
+            "id": "fb2b73ff8b5c38d72745cffde7288b9f",
+            "name": "2d93f6f7-ae9d-469c-8491-4417d793dd43.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/2d93f6f7-ae9d-469c-8491-4417d793dd43.jpg",
+            "size": {
+                "width": 750,
+                "height": 501
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a98f25f41c6f2b8143d0325780f876b2": {
+            "format": "jpg",
+            "id": "a98f25f41c6f2b8143d0325780f876b2",
+            "name": "34d90bbe-ad71-41ca-afdf-99e76ffda8e8.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/34d90bbe-ad71-41ca-afdf-99e76ffda8e8.jpg",
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "63ccc9afee853183f71ed69583d7f3ba": {
+            "format": "jpg",
+            "id": "63ccc9afee853183f71ed69583d7f3ba",
+            "name": "35adc4f9-c85e-43f5-8654-bbb2b84ecc03.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/35adc4f9-c85e-43f5-8654-bbb2b84ecc03.jpg",
+            "size": {
+                "width": 973,
+                "height": 615
+            },
+            "state": 2,
+            "type": 1
+        },
+        "46b2c5ea4fa3e6c9ce520ba6a303c9f5": {
+            "format": "jpg",
+            "id": "46b2c5ea4fa3e6c9ce520ba6a303c9f5",
+            "name": "35d61c0b-e17f-4a36-87cf-a10c6f2ae1bd.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/35d61c0b-e17f-4a36-87cf-a10c6f2ae1bd.jpg",
+            "size": {
+                "width": 1000,
+                "height": 649
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8e6b47f877cdaf6c94d98f4e3e094168": {
+            "format": "jpg",
+            "id": "8e6b47f877cdaf6c94d98f4e3e094168",
+            "name": "364124da-bd1c-4b29-b059-f63843dd5d3b.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/364124da-bd1c-4b29-b059-f63843dd5d3b.jpg",
+            "size": {
+                "width": 700,
+                "height": 461
+            },
+            "state": 2,
+            "type": 1
+        },
+        "60376a35436b57c749f8b144041a90df": {
+            "format": "jpg",
+            "id": "60376a35436b57c749f8b144041a90df",
+            "name": "36b1f814-d46d-481c-9bfb-5afbb9daaeca.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/36b1f814-d46d-481c-9bfb-5afbb9daaeca.jpg",
+            "size": {
+                "width": 650,
+                "height": 406
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da01503f9fc3301c05fc188631edec6a": {
+            "format": "jpg",
+            "id": "da01503f9fc3301c05fc188631edec6a",
+            "name": "3942bd5b-63f0-4ca9-b4dd-961762e0b3d8.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/3942bd5b-63f0-4ca9-b4dd-961762e0b3d8.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b3d54d1487e2527f0d713a2fe2deebeb": {
+            "format": "jpg",
+            "id": "b3d54d1487e2527f0d713a2fe2deebeb",
+            "name": "3acb8468-2f0d-4d40-8120-00353dd96c05.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/3acb8468-2f0d-4d40-8120-00353dd96c05.jpg",
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b4e3962f4c94f5d3fad0480b44cfcf92": {
+            "format": "jpg",
+            "id": "b4e3962f4c94f5d3fad0480b44cfcf92",
+            "name": "3bc71a43-d773-421c-b4a8-10e10279da1a.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/3bc71a43-d773-421c-b4a8-10e10279da1a.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e59b2146f0b4c632926a6fcfb155d4c0": {
+            "format": "jpg",
+            "id": "e59b2146f0b4c632926a6fcfb155d4c0",
+            "name": "419284dd-b112-4fd8-8863-97c092135aca.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/419284dd-b112-4fd8-8863-97c092135aca.jpg",
+            "size": {
+                "width": 576,
+                "height": 341
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d428cc1a449162d790c866deaddc04f5": {
+            "format": "jpg",
+            "id": "d428cc1a449162d790c866deaddc04f5",
+            "name": "45783423-f4ed-46b0-b20a-670a52e8dc0e.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/45783423-f4ed-46b0-b20a-670a52e8dc0e.jpg",
+            "size": {
+                "width": 800,
+                "height": 600
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f99cc8d45924aa8d6d07fa9dcc610005": {
+            "format": "jpg",
+            "id": "f99cc8d45924aa8d6d07fa9dcc610005",
+            "name": "48e1e0fe-a17d-4309-ae3b-39503a696c31.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/48e1e0fe-a17d-4309-ae3b-39503a696c31.jpg",
+            "size": {
+                "width": 2000,
+                "height": 1345
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b0df995270e8924e5e2ef157f76b6107": {
+            "format": "jpg",
+            "id": "b0df995270e8924e5e2ef157f76b6107",
+            "name": "4b00ff84-5e0d-448a-b5f0-8a3032d8a976.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/4b00ff84-5e0d-448a-b5f0-8a3032d8a976.jpg",
+            "size": {
+                "width": 700,
+                "height": 438
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5099eb37ce3666a233ec6f17c4876ddf": {
+            "format": "jpg",
+            "id": "5099eb37ce3666a233ec6f17c4876ddf",
+            "name": "4bae8269-dd99-462b-8931-8bc15f8c64f1.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/4bae8269-dd99-462b-8931-8bc15f8c64f1.jpg",
+            "size": {
+                "width": 480,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "53b87331bf4767fe803be9af47fb3ef1": {
+            "format": "jpg",
+            "id": "53b87331bf4767fe803be9af47fb3ef1",
+            "name": "4f719d3c-c109-4008-a0ad-61f23eeb14ec.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/4f719d3c-c109-4008-a0ad-61f23eeb14ec.jpg",
+            "size": {
+                "width": 2000,
+                "height": 1345
+            },
+            "state": 2,
+            "type": 1
+        },
+        "67eb813c6d5f7e3e39fc3f79624e2dcf": {
+            "format": "jpg",
+            "id": "67eb813c6d5f7e3e39fc3f79624e2dcf",
+            "name": "50723f02-6371-4c47-b7c9-f3ce1ee124b3.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/50723f02-6371-4c47-b7c9-f3ce1ee124b3.jpg",
+            "size": {
+                "width": 600,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "981a9e0cd94b97c704a1003586b77439": {
+            "format": "jpg",
+            "id": "981a9e0cd94b97c704a1003586b77439",
+            "name": "52c39fa3-733e-42bb-9451-58010baf36b8.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/52c39fa3-733e-42bb-9451-58010baf36b8.jpg",
+            "size": {
+                "width": 700,
+                "height": 461
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7bf93a1f6da3496642059cbf116c1300": {
+            "format": "jpg",
+            "id": "7bf93a1f6da3496642059cbf116c1300",
+            "name": "52df72f9-082c-48e9-a589-e5b5af697102.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/52df72f9-082c-48e9-a589-e5b5af697102.jpg",
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6979831d7c5c2e84036718d86d33f548": {
+            "format": "jpg",
+            "id": "6979831d7c5c2e84036718d86d33f548",
+            "name": "5586740d-f079-49ee-b049-4802f81b8e16.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/5586740d-f079-49ee-b049-4802f81b8e16.jpg",
+            "size": {
+                "width": 700,
+                "height": 461
+            },
+            "state": 2,
+            "type": 1
+        },
+        "52e8b4b2d34c4354c19557adeb4d1489": {
+            "format": "jpg",
+            "id": "52e8b4b2d34c4354c19557adeb4d1489",
+            "name": "5ec8e463-aa81-4559-8796-e12e5043294d.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/5ec8e463-aa81-4559-8796-e12e5043294d.jpg",
+            "size": {
+                "width": 1020,
+                "height": 648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7fa9757b72e0caf324995b1e2626ea72": {
+            "format": "jpg",
+            "id": "7fa9757b72e0caf324995b1e2626ea72",
+            "name": "66d962a7-dee5-4b9b-a1ec-a45ee72f5399.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/66d962a7-dee5-4b9b-a1ec-a45ee72f5399.jpg",
+            "size": {
+                "width": 1080,
+                "height": 809
+            },
+            "state": 2,
+            "type": 1
+        },
+        "51442555d2ca8a92d0162a7c5a324ae3": {
+            "format": "jpg",
+            "id": "51442555d2ca8a92d0162a7c5a324ae3",
+            "name": "79e5f476-61d3-4cf7-af54-77e936c3a4ad.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/79e5f476-61d3-4cf7-af54-77e936c3a4ad.jpg",
+            "size": {
+                "width": 2835,
+                "height": 1630
+            },
+            "state": 2,
+            "type": 1
+        },
+        "498d69509fa3da286de3645a456c2cd9": {
+            "format": "jpg",
+            "id": "498d69509fa3da286de3645a456c2cd9",
+            "name": "7cb824a0-a0b1-45a5-8b67-66144779d2bd.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/7cb824a0-a0b1-45a5-8b67-66144779d2bd.jpg",
+            "size": {
+                "width": 512,
+                "height": 288
+            },
+            "state": 2,
+            "type": 1
+        },
+        "101ff11430b3fb3144fb32f9dc9e36a6": {
+            "format": "jpg",
+            "id": "101ff11430b3fb3144fb32f9dc9e36a6",
+            "name": "7ee64f57-e7ac-4914-bd64-34ca4e7a94a8.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/7ee64f57-e7ac-4914-bd64-34ca4e7a94a8.jpg",
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2c013d1ab13b7506055e0f294b80fffd": {
+            "format": "jpg",
+            "id": "2c013d1ab13b7506055e0f294b80fffd",
+            "name": "81113c7c-1ddb-4b68-945f-53a808c36526.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/81113c7c-1ddb-4b68-945f-53a808c36526.jpg",
+            "size": {
+                "width": 1020,
+                "height": 688
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1ef34dd89792d5b46c8c3f6ff5691311": {
+            "format": "jpg",
+            "id": "1ef34dd89792d5b46c8c3f6ff5691311",
+            "name": "814af737-1fe5-4831-85a4-bf22801170fc.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/814af737-1fe5-4831-85a4-bf22801170fc.jpg",
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "654e0b1f18ec73749e429e788e9174ef": {
+            "format": "jpg",
+            "id": "654e0b1f18ec73749e429e788e9174ef",
+            "name": "81f6757e-e7e3-4014-9974-cc7e672fc2d9.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/81f6757e-e7e3-4014-9974-cc7e672fc2d9.jpg",
+            "size": {
+                "width": 622,
+                "height": 389
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8edf57ceab7d0f23c1c0ae00565302ad": {
+            "format": "jpg",
+            "id": "8edf57ceab7d0f23c1c0ae00565302ad",
+            "name": "83ad2521-e6b2-441f-bb1a-f0a3eb959920.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/83ad2521-e6b2-441f-bb1a-f0a3eb959920.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "38fe742b9a0a0cfd9af279d72a9ea9e9": {
+            "format": "jpg",
+            "id": "38fe742b9a0a0cfd9af279d72a9ea9e9",
+            "name": "86817854-4cbb-4ced-a4f1-f77594e70404.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/86817854-4cbb-4ced-a4f1-f77594e70404.jpg",
+            "size": {
+                "width": 645,
+                "height": 322
+            },
+            "state": 2,
+            "type": 1
+        },
+        "354b8837c106bed92a04b523bfd2e014": {
+            "format": "jpg",
+            "id": "354b8837c106bed92a04b523bfd2e014",
+            "name": "869f12f3-90b3-4a72-9406-c98d6fcc860e.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/869f12f3-90b3-4a72-9406-c98d6fcc860e.jpg",
+            "size": {
+                "width": 600,
+                "height": 315
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b006afa8d91b8601a6d4ab9a644436a6": {
+            "format": "jpg",
+            "id": "b006afa8d91b8601a6d4ab9a644436a6",
+            "name": "86c9d54f-b4d9-4753-80e0-2949a7d17b84.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/86c9d54f-b4d9-4753-80e0-2949a7d17b84.jpg",
+            "size": {
+                "width": 1000,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5baa89d785dff3a297d29e0d6068fbef": {
+            "format": "jpg",
+            "id": "5baa89d785dff3a297d29e0d6068fbef",
+            "name": "9362be4b-5ae3-451c-8c16-80b942606c2b.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/9362be4b-5ae3-451c-8c16-80b942606c2b.jpg",
+            "size": {
+                "width": 576,
+                "height": 341
+            },
+            "state": 2,
+            "type": 1
+        },
+        "40a835bf045b3544c9d72113d811344e": {
+            "format": "jpg",
+            "id": "40a835bf045b3544c9d72113d811344e",
+            "name": "950b4bcd-1b64-402b-89af-516c7ccc2e1f.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/950b4bcd-1b64-402b-89af-516c7ccc2e1f.jpg",
+            "size": {
+                "width": 1080,
+                "height": 809
+            },
+            "state": 2,
+            "type": 1
+        },
+        "60a2102ba6188370e09bfd5426bfb079": {
+            "format": "jpg",
+            "id": "60a2102ba6188370e09bfd5426bfb079",
+            "name": "956cef62-f8e6-4e96-a582-3fb1c18c2e32.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/956cef62-f8e6-4e96-a582-3fb1c18c2e32.jpg",
+            "size": {
+                "width": 700,
+                "height": 394
+            },
+            "state": 2,
+            "type": 1
+        },
+        "061c570793688cd9f8e212fe17369e24": {
+            "format": "jpg",
+            "id": "061c570793688cd9f8e212fe17369e24",
+            "name": "9ce07fbe-8517-40e5-90b9-df85b9778ac9.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/9ce07fbe-8517-40e5-90b9-df85b9778ac9.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ae34f8c07d61650925ac506600c49e5d": {
+            "format": "jpg",
+            "id": "ae34f8c07d61650925ac506600c49e5d",
+            "name": "9ef81cf4-9ca9-4dde-907c-f4c3f72a555c.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/9ef81cf4-9ca9-4dde-907c-f4c3f72a555c.jpg",
+            "size": {
+                "width": 2000,
+                "height": 1345
+            },
+            "state": 2,
+            "type": 1
+        },
+        "af63c28be69dea1365dd3dda367631ca": {
+            "format": "jpg",
+            "id": "af63c28be69dea1365dd3dda367631ca",
+            "name": "9fb6e02d-6729-43ec-a332-e9b7ba4e065b.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/9fb6e02d-6729-43ec-a332-e9b7ba4e065b.jpg",
+            "size": {
+                "width": 660,
+                "height": 331
+            },
+            "state": 2,
+            "type": 1
+        },
+        "02dc60056c3959b4796f52b789e3567b": {
+            "format": "jpg",
+            "id": "02dc60056c3959b4796f52b789e3567b",
+            "name": "a03454ec-7792-45e3-aa71-f6fbc003211f.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/a03454ec-7792-45e3-aa71-f6fbc003211f.jpg",
+            "size": {
+                "width": 1248,
+                "height": 934
+            },
+            "state": 2,
+            "type": 1
+        },
+        "65e6e4c3c7a15015320cc6c03c57b033": {
+            "format": "jpg",
+            "id": "65e6e4c3c7a15015320cc6c03c57b033",
+            "name": "a325ea25-75b0-4786-8d7a-cd65bcce2b4f.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/a325ea25-75b0-4786-8d7a-cd65bcce2b4f.jpg",
+            "size": {
+                "width": 1020,
+                "height": 573
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9249d91b84ba9c2a412e65d7148d5212": {
+            "format": "jpg",
+            "id": "9249d91b84ba9c2a412e65d7148d5212",
+            "name": "a41e0111-9621-4e2f-b9ec-dc917c42bf74.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/a41e0111-9621-4e2f-b9ec-dc917c42bf74.jpg",
+            "size": {
+                "width": 1024,
+                "height": 576
+            },
+            "state": 2,
+            "type": 1
+        },
+        "61680ba62e79c1c5f57feaa0dc646679": {
+            "format": "jpg",
+            "id": "61680ba62e79c1c5f57feaa0dc646679",
+            "name": "a441d9b0-793a-4558-9545-210f0a3b7c40.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/a441d9b0-793a-4558-9545-210f0a3b7c40.jpg",
+            "size": {
+                "width": 1000,
+                "height": 678
+            },
+            "state": 2,
+            "type": 1
+        },
+        "28194a4ca3bf4638e74d40c69392617c": {
+            "format": "jpg",
+            "id": "28194a4ca3bf4638e74d40c69392617c",
+            "name": "a6619d12-7b49-43cc-acb7-4170a09cab7b.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/a6619d12-7b49-43cc-acb7-4170a09cab7b.jpg",
+            "size": {
+                "width": 300,
+                "height": 168
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6ab705715eee5ad95a5b1a89b7a30392": {
+            "format": "jpg",
+            "id": "6ab705715eee5ad95a5b1a89b7a30392",
+            "name": "a73e182f-4c0c-4e84-b052-83a333b51363.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/a73e182f-4c0c-4e84-b052-83a333b51363.jpg",
+            "size": {
+                "width": 445,
+                "height": 180
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1cee5baf7d303a682fc03ae014f23670": {
+            "format": "jpg",
+            "id": "1cee5baf7d303a682fc03ae014f23670",
+            "name": "aa2636c0-7dd3-4011-8777-ca90591e26a4.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/aa2636c0-7dd3-4011-8777-ca90591e26a4.jpg",
+            "size": {
+                "width": 973,
+                "height": 615
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2335a98098a5b2aba6586a748eb7c4de": {
+            "format": "jpg",
+            "id": "2335a98098a5b2aba6586a748eb7c4de",
+            "name": "acd96c69-124c-4c05-b0f2-f97356e32906.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/acd96c69-124c-4c05-b0f2-f97356e32906.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a2936a69cd7eec6b15e66b46e3ba408a": {
+            "format": "jpg",
+            "id": "a2936a69cd7eec6b15e66b46e3ba408a",
+            "name": "af479656-b794-4385-87a1-18b34e94e7d6.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/af479656-b794-4385-87a1-18b34e94e7d6.jpg",
+            "size": {
+                "width": 700,
+                "height": 394
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d4679eb97d99154452610eead0b5db1a": {
+            "format": "jpg",
+            "id": "d4679eb97d99154452610eead0b5db1a",
+            "name": "b13204a0-29b6-468d-85c9-b607c0a8b9d5.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/b13204a0-29b6-468d-85c9-b607c0a8b9d5.jpg",
+            "size": {
+                "width": 2000,
+                "height": 1345
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a56615ae26e1b2edb2eb07efe80c0e77": {
+            "format": "jpg",
+            "id": "a56615ae26e1b2edb2eb07efe80c0e77",
+            "name": "b369cdf0-267f-45cc-b83d-0155f0e52c16.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/b369cdf0-267f-45cc-b83d-0155f0e52c16.jpg",
+            "size": {
+                "width": 1500,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "209c6631dcdc6b66a9283741e810c922": {
+            "format": "jpg",
+            "id": "209c6631dcdc6b66a9283741e810c922",
+            "name": "bc3e1d79-4f0b-4a62-80b3-ce96c4fba87e.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/bc3e1d79-4f0b-4a62-80b3-ce96c4fba87e.jpg",
+            "size": {
+                "width": 466,
+                "height": 275
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f2a8ce011044a27f657f6f509d194cf": {
+            "format": "jpg",
+            "id": "0f2a8ce011044a27f657f6f509d194cf",
+            "name": "c1d6a6a7-43b5-4515-bd01-f4d5c2357046.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/c1d6a6a7-43b5-4515-bd01-f4d5c2357046.jpg",
+            "size": {
+                "width": 480,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5cefbe71a8c3c890b66d0dc6df6995b1": {
+            "format": "jpg",
+            "id": "5cefbe71a8c3c890b66d0dc6df6995b1",
+            "name": "c5497229-c6e7-426d-8bfb-4d19b8137e5d.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/c5497229-c6e7-426d-8bfb-4d19b8137e5d.jpg",
+            "size": {
+                "width": 1000,
+                "height": 649
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b4981cb69d9e9e20060106d8b90f9a74": {
+            "format": "jpg",
+            "id": "b4981cb69d9e9e20060106d8b90f9a74",
+            "name": "c9d64c0a-da14-4045-a994-6b0082f9a16f.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/c9d64c0a-da14-4045-a994-6b0082f9a16f.jpg",
+            "size": {
+                "width": 700,
+                "height": 438
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5dd37bf78f567819a3a7504c5a435cc2": {
+            "format": "jpg",
+            "id": "5dd37bf78f567819a3a7504c5a435cc2",
+            "name": "cac5b5bf-ba92-40c8-9f49-5bb4cf0041d0.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/cac5b5bf-ba92-40c8-9f49-5bb4cf0041d0.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f0de4f7f09a5b0cb58f8fc941118fdd4": {
+            "format": "jpg",
+            "id": "f0de4f7f09a5b0cb58f8fc941118fdd4",
+            "name": "cb015321-40c8-4631-b632-154553ee7a2a.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/cb015321-40c8-4631-b632-154553ee7a2a.jpg",
+            "size": {
+                "width": 800,
+                "height": 488
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0684ee57f663acc41b72d8445af7e527": {
+            "format": "jpg",
+            "id": "0684ee57f663acc41b72d8445af7e527",
+            "name": "cc249777-4d68-4349-877e-314b5c183a10.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/cc249777-4d68-4349-877e-314b5c183a10.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "97fec4f3704734b93655f4f2318bb94c": {
+            "format": "jpg",
+            "id": "97fec4f3704734b93655f4f2318bb94c",
+            "name": "cdeec7b4-1a86-4935-8b2e-1d0c8c17ad4c.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/cdeec7b4-1a86-4935-8b2e-1d0c8c17ad4c.jpg",
+            "size": {
+                "width": 973,
+                "height": 615
+            },
+            "state": 2,
+            "type": 1
+        },
+        "04065bd2e779bfc1882ec2730cc9d5a3": {
+            "format": "jpg",
+            "id": "04065bd2e779bfc1882ec2730cc9d5a3",
+            "name": "d0977e29-3cca-4566-a111-bebb29d1e8e8.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/d0977e29-3cca-4566-a111-bebb29d1e8e8.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "74b23c87245b7d99a0c2415b50366f95": {
+            "format": "jpg",
+            "id": "74b23c87245b7d99a0c2415b50366f95",
+            "name": "d1b06a92-93ce-49ea-939f-ccafca10a4b8.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/d1b06a92-93ce-49ea-939f-ccafca10a4b8.jpg",
+            "size": {
+                "width": 1500,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aecb4ce3b73e1c47beb778edb671fa3a": {
+            "format": "jpg",
+            "id": "aecb4ce3b73e1c47beb778edb671fa3a",
+            "name": "d9e7264a-90ce-420d-b874-a3225ca7e938.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/d9e7264a-90ce-420d-b874-a3225ca7e938.jpg",
+            "size": {
+                "width": 480,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a549835ee34694d93cf0d3f62bc1a839": {
+            "format": "jpg",
+            "id": "a549835ee34694d93cf0d3f62bc1a839",
+            "name": "dcfe0419-1fd5-4fbb-a457-834672af7313.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/dcfe0419-1fd5-4fbb-a457-834672af7313.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "71cba771833e4b1da1365745370e5b8c": {
+            "format": "jpg",
+            "id": "71cba771833e4b1da1365745370e5b8c",
+            "name": "deac9e6a-22e8-4a8b-969a-ffda944811b4.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/deac9e6a-22e8-4a8b-969a-ffda944811b4.jpg",
+            "size": {
+                "width": 800,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d298a0e0e275289d3b883d2656c33fb1": {
+            "format": "jpg",
+            "id": "d298a0e0e275289d3b883d2656c33fb1",
+            "name": "e5ccc48b-fe2d-401b-8fdc-bbc2cf51f33b.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/e5ccc48b-fe2d-401b-8fdc-bbc2cf51f33b.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1ca757a4437ffd16384d4a4674e546e8": {
+            "format": "jpg",
+            "id": "1ca757a4437ffd16384d4a4674e546e8",
+            "name": "e928a19a-646f-4989-9ea3-f5c8b91a4537.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/e928a19a-646f-4989-9ea3-f5c8b91a4537.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "157fc18a6c703b9ce3b7c89e9d50287d": {
+            "format": "jpg",
+            "id": "157fc18a6c703b9ce3b7c89e9d50287d",
+            "name": "ea233a9c-e8c9-450f-a22e-874b0a56f623.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/ea233a9c-e8c9-450f-a22e-874b0a56f623.jpg",
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "816e61cbe95cc04b13aa48b915620505": {
+            "format": "jpg",
+            "id": "816e61cbe95cc04b13aa48b915620505",
+            "name": "eb08ae5e-635f-4d78-940a-32e90a3b9402.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/eb08ae5e-635f-4d78-940a-32e90a3b9402.jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "18dbc9342f80feddc184d3af41015433": {
+            "format": "jpg",
+            "id": "18dbc9342f80feddc184d3af41015433",
+            "name": "ee938a85-11f5-4c78-ad4c-cda96cbcc962.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/ee938a85-11f5-4c78-ad4c-cda96cbcc962.jpg",
+            "size": {
+                "width": 700,
+                "height": 461
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e4de81056ff072db883cf2db3ea09749": {
+            "format": "jpg",
+            "id": "e4de81056ff072db883cf2db3ea09749",
+            "name": "eee48467-1da2-4072-b939-a08fb54b1c0f.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/eee48467-1da2-4072-b939-a08fb54b1c0f.jpg",
+            "size": {
+                "width": 768,
+                "height": 432
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa15aa9405329ddf6bbd5adb68a2e279": {
+            "format": "jpg",
+            "id": "aa15aa9405329ddf6bbd5adb68a2e279",
+            "name": "f1750db4-fb53-4dcd-abbe-301ba31be450.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/f1750db4-fb53-4dcd-abbe-301ba31be450.jpg",
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c848180c1a5e882e79b3d35a23a2966b": {
+            "format": "jpg",
+            "id": "c848180c1a5e882e79b3d35a23a2966b",
+            "name": "f3f6bf73-54c3-43d9-97aa-15aa74f9c712.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/f3f6bf73-54c3-43d9-97aa-15aa74f9c712.jpg",
+            "size": {
+                "width": 560,
+                "height": 291
+            },
+            "state": 2,
+            "type": 1
+        },
+        "60005a3447bb9a55829f4d374e02f9e5": {
+            "format": "jpg",
+            "id": "60005a3447bb9a55829f4d374e02f9e5",
+            "name": "f95fd4cf-0889-45a8-9d94-053b96e29d22.jpg",
+            "path": "file:C:/Users/hnm08/PycharmProjects/crawlImageFromGGImg/rawImg/f95fd4cf-0889-45a8-9d94-053b96e29d22.jpg",
+            "size": {
+                "width": 900,
+                "height": 630
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}
